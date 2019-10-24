@@ -83,7 +83,7 @@
                 <div class="title m-b-md">
                     SEBANK
                 </div>
-                <center>Under Contruction</center>
+                <center>Version-1</center>
                 <!-- <div class="links">
                     <a href="https://laravel.com/docs">Docs</a>
                     <a href="https://laracasts.com">Laracasts</a>
